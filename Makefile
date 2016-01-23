@@ -1,4 +1,4 @@
-PREFIX := /usr/local
+PREFIX := /usr
 fonts: gohup-uni-11.pcf.gz gohup-uni-11b.pcf.gz
 
 %.pcf.gz: %.bdf
